@@ -30,7 +30,7 @@ To install Ferrari News, follow these steps:
 
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/GabrielHenaux/ece-webtech-2023-fall-gr04-11.git
+   git clone https://github.com/matheogonnet/ferrarinews-blogging-app.git
     ```
 2. Navigate to the project directory:
     ```bash
